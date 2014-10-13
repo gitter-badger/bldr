@@ -92,16 +92,16 @@
         },
         {
             "name": "bldr-io/remote-block",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bldr-io/remote-block.git",
-                "reference": "5d8e5e0abe9daa2984752c80c6d037491486f8cc"
+                "reference": "8037032cfbab426a753724c7961dc8bf1589be95"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bldr-io/remote-block/zipball/5d8e5e0abe9daa2984752c80c6d037491486f8cc",
-                "reference": "5d8e5e0abe9daa2984752c80c6d037491486f8cc",
+                "url": "https://api.github.com/repos/bldr-io/remote-block/zipball/8037032cfbab426a753724c7961dc8bf1589be95",
+                "reference": "8037032cfbab426a753724c7961dc8bf1589be95",
                 "shasum": ""
             },
             "require": {
@@ -136,7 +136,7 @@
                 }
             ],
             "description": "Remote Execution Block for Bldr",
-            "time": "2014-10-13 03:45:51"
+            "time": "2014-10-13 04:55:43"
         },
         {
             "name": "coffeescript/coffeescript",
