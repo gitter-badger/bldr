@@ -1,6 +1,8 @@
 Bldr
 ====
 
+[![Join the chat at https://gitter.im/aequasi/bldr](https://badges.gitter.im/aequasi/bldr.svg)](https://gitter.im/aequasi/bldr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simplified Build System/Task Runner
 
 Uses Yaml, JSON, XML, PHP, or INI for configs
